@@ -95,6 +95,7 @@
 		CF57A70B28FCB60D00EDF094 /* MockNetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockNetworkService.swift; sourceTree = "<group>"; };
 		CF57A70D28FCB75700EDF094 /* DataServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataServiceTests.swift; sourceTree = "<group>"; };
 		CF57A70F28FCBAF600EDF094 /* MockImageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockImageService.swift; sourceTree = "<group>"; };
+		CF57A71128FCC43F00EDF094 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +119,7 @@
 		CF57A68928FC1F8000EDF094 = {
 			isa = PBXGroup;
 			children = (
+				CF57A71128FCC43F00EDF094 /* README.md */,
 				CF57A69428FC1F8000EDF094 /* CoolblueApp */,
 				CF57A6AB28FC1F8300EDF094 /* CoolblueAppTests */,
 				CF57A69328FC1F8000EDF094 /* Products */,
